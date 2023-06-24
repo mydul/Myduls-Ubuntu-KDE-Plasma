@@ -26,24 +26,22 @@ Mainly, This project aims to learn and share **"Linux shell scripting (Bash)"**.
 ## Instruction for installation
 
 ```python
-# First git installation!
-
+# First Git Installation!
 sudo apt install git
 
-# Clone the repository
-
+# Clone the Repository
 git clone https://github.com/mydul/Myduls-Ubuntu-KDE-Plasma
 
-# Exace the directory
-
+# Exace the Directory
 cd Myduls-Ubuntu-KDE-Plasma 
 
-# Execute the script
+# Run the Shell Script
+sudo chmod +x myscript.sh
 
+# Execute the Script
 ./myscript.sh  
 
-# System restart
-
+# System Restart
 sudo reboot 
 
 ```
