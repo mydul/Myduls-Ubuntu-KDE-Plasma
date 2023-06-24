@@ -12,7 +12,7 @@ A Linux shell script to build the Ubuntu KDE Plasma desktop environment from min
 
 ## Project Goal
 
-This project's goal is to learn and share Linux shell scripting. Mainly, the project is **"Linux shell script (Bash) to build the Ubuntu KDE Plasma desktop environment from the minimal installation"**.
+Mainly, This project aims to learn and share **"Linux shell scripting (Bash)"**.
 
 ## Content
 
