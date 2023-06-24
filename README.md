@@ -27,7 +27,6 @@ This project's goal is to learn and share Linux shell scripting. Mainly, the pro
 
 Source Code:
 
-
 # First git installation!
 ```python
 sudo apt install git ```
@@ -48,7 +47,6 @@ cd Myduls-Ubuntu-KDE-Plasma ```
 ```python
 sudo reboot ```
 
-```
 
 ## License
 
