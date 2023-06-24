@@ -26,26 +26,28 @@ This project's goal is to learn and share Linux shell scripting. Mainly, the pro
 ## Instruction for installation
 
 Source Code:
-
-# First git installation!
 ```python
-sudo apt install git ```
+# First git installation!
+
+sudo apt install git
 
 # Clone the repository
-```python
-git clone https://github.com/mydul/Myduls-Ubuntu-KDE-Plasma ```
+
+git clone https://github.com/mydul/Myduls-Ubuntu-KDE-Plasma
 
 # Exace the directory
-```python
-cd Myduls-Ubuntu-KDE-Plasma ```
+
+cd Myduls-Ubuntu-KDE-Plasma 
 
 # Execute the script
-```python
-./myscript.sh  ```
+
+./myscript.sh  
 
 # System restart
-```python
-sudo reboot ```
+
+sudo reboot 
+
+```
 
 
 ## License
