@@ -5,7 +5,7 @@ A Linux shell script to build the Ubuntu KDE Plasma desktop environment from min
 
 - 🚀 [Project Goal](#Project-Goal)
 - 📚 [Content](#Content)
-- 🗄 [Instruction for installation](#Instruction for installation)
+- 🗄 [Instruction for installation](#Instruction-for-installation)
 - ⚖  [License](#License)
 - 💬 [Acknowledgements](#Acknowledgements)
 
