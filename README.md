@@ -25,7 +25,6 @@ This project's goal is to learn and share Linux shell scripting. Mainly, the pro
 
 ## Instruction for installation
 
-Source Code:
 ```python
 # First git installation!
 
