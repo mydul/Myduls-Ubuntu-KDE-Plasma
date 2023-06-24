@@ -28,15 +28,22 @@ This project's goal is to learn and share Linux shell scripting. Mainly, the pro
 Source Code:
 
 ```python
-# This program prints Hello, world!
+# First git installation!
+sudo apt install git
 
-print('Hello, world!')
+# Clone the repository
+git clone https://github.com/mydul/Myduls-Ubuntu-KDE-Plasma
+
+# Exace the directory
+cd Myduls-Ubuntu-KDE-Plasma
+
+# Execute the script
+./myscript.sh 
+
+# System restart
+sudo reboot
+
 ```
-
-Output:
-
-> Hello, world!
-
 
 ## License
 
